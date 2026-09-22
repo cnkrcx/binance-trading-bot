@@ -1,0 +1,21 @@
+# Gizli bilgiler - ASLA commit etme
+.env
+.env.bak.*
+.env.before_*
+.env.production_backup
+.env.*.backup
+
+# Gerçek hesap/işlem verisi - kişisel finansal bilgi
+state.json
+news_state.json
+trade_history*.jsonl
+trading_bot.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/

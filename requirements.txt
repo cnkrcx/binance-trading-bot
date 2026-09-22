@@ -1,0 +1,9 @@
+python-binance>=1.0.19
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+feedparser>=6.0.10
+anthropic>=0.40.0
+flask>=3.0.0
+requests>=2.31.0
